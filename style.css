@@ -19,8 +19,7 @@ a {
 
 a:hover {
 
-	color: #06052B;
-
+	color: #0769CF;
 }
 
 img {
@@ -124,7 +123,7 @@ li {
 	nav:hover ul {
 
 		display: block;
-
+    color: red;
 	}
   img{
     width:100%;
