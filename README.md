@@ -20,6 +20,9 @@ The lack of experience had pushed us into swimming in chaios for the past two da
 
 ## Plan:
 Nadia: I worked the navagation bar.
+
 Mohammad: I did the body with the image and the title.
+
 Marwa: I designed the brief paragraph about eache one alongside the contact us.
+
 Nour: The footer was mine.
