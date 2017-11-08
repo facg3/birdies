@@ -8,7 +8,7 @@ body {
     background-color: #353535;
     color: white;
     overflow: hidden;
-    margin: -10;
+    margin: -17 -10;
     list-style-type: none;
     display: block;
     text-align: center;
@@ -63,6 +63,10 @@ li li:hover {
     color: white;
 }
 
+.button:hover {
+    background-color: #707070
+}
+
 #sprt ul li {
     padding: 5
 }
@@ -79,4 +83,12 @@ a {
         float: none;
     }
     
+}
+
+#reference {
+    margin: -8;
+    padding: 0;
+    color: white;
+    text-align: center;
+    background-color: #353535;
 }
