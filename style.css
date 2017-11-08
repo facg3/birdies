@@ -21,10 +21,10 @@ a:hover {
 
 	color: #0769CF;
 }
-
-img {
-
-	width: 100%;
+#top{
+  background-image: url("https://4.bp.blogspot.com/-pigPfRWS3Sw/VWX-feGd7II/AAAAAAABjLE/K3JemRkjclI/s0/Coding_with_Style_wallpaper.jpg");
+  width: 100%;
+  filter: blur(7px) brightness(0.5);
 
 }
 
