@@ -1,14 +1,13 @@
-html, body, img , ul, li {margin:0; padding:0; border:0; outline:0; font-size:100%;
+ img , ul, li {margin:0; padding:0; border:0; outline:0; font-size:100%;
  background:transparent;};
   ul{list-style:none;}
 
-body {
-	font-size: 1.05em;
-	line-height: 1.25em;
-	font-family: Helvetica Neue, Helvetica, Arial;
-	background: #f9f9f9;
-	color: #555;
+  body {
+  text-align: center;
+
+
 }
+
 
 a {
 	color: white;
@@ -26,6 +25,89 @@ a:hover {
   width: 100%;
   filter: blur(7px) brightness(0.5);
 
+}
+
+.services,
+.testimonials{
+    padding: 100px 0;
+    background: #fbfbfb;
+    width: 100%;
+}
+
+.services h2{
+    color: #606060;
+    font-family: arial;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.services .separator{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.services ul{
+    list-style: none;
+    margin-left: 80px;
+    overflow: hidden;
+}
+
+.services ul li{
+    float: left;
+    display: block;
+    width: 293px;
+    height: auto;
+    margin-left: 80px;
+    text-align: center;
+}
+
+.services ul li:first-child{
+    margin-left: 0;
+}
+
+.services ul li img.s_icons{
+    margin-bottom: 40px;
+}
+
+.services ul li h3{
+    color: #746969;
+    font-family: 'open_bold', arial;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.services ul li p{
+    color: #746969;
+    font-family: 'open_regular', arial;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+media (max-width: 1200px){
+  .services{
+    display: flex;
+    justify-content: center;
+}
+  .services ul li{
+    width: 10%;
+  }
+}
+
+@media (max-width: 1189px){
+      #sepe {
+        display: none;
+
+      }
+}
+
+
+
+@media (max-width:814px){
+  .services ul li:first-child{
+      margin-left: 95;
+  }
 }
 
 
@@ -125,3 +207,20 @@ li {
 		display: block;
     color: red;
 	}
+
+
+
+
+
+.top{
+  max-width: 100%;
+  max-height: 3000px;
+
+
+}
+#top{
+  background-image: url("https://4.bp.blogspot.com/-pigPfRWS3Sw/VWX-feGd7II/AAAAAAABjLE/K3JemRkjclI/s0/Coding_with_Style_wallpaper.jpg");
+  width: 100%;
+
+
+}
