@@ -125,19 +125,3 @@ li {
 		display: block;
     color: red;
 	}
-  img{
-    width:100%;
-
-    margin: 0;
-  }
-  #photo{
-    background-size: cover;
-    width: 100%;
-    margin: 0px;
-  }
-  @media (max-width:767px){
-   img {
-     width:768; // new width for screen <768px
-     height: 768; // new height for screen <768px
-   }
-  }
