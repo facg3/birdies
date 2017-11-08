@@ -8,7 +8,7 @@ body {
     background-color: #353535;
     color: white;
     overflow: hidden;
-    margin: -17 -10;
+    margin: 0 0;
     list-style-type: none;
     display: block;
     text-align: center;
@@ -17,7 +17,7 @@ body {
 #footer .col {
     list-style-type: none;
     width: 31%;
-    height: auto;
+    height: 180px;
     float: left;
     margin: 0% 0%;
 }
@@ -54,7 +54,7 @@ li li:hover {
 .button {
     border: none;
     color:darkslategray;
-    padding: 14px 28px;
+    padding: 12px 28px;
     cursor: pointer;
 }
 
@@ -86,7 +86,8 @@ a {
 }
 
 #reference {
-    margin: -8;
+    border-top: medium #222222 solid;
+    margin: 0;
     padding: 0;
     color: white;
     text-align: center;
