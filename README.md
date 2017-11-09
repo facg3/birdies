@@ -26,3 +26,6 @@ Mohammad: I did the body with the image and the title.
 Marwa: I designed the brief paragraph about eache one alongside the contact us.
 
 Nour: The footer was mine.
+
+
+aaaaaaaaaaaaaaaaaaaaaa
