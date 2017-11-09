@@ -9,7 +9,7 @@ Marwa al beltaji
 Nadia al khatib
 Noureldean swearky
 
-## Whait ... why?
+## Wait ... why?
 Simply in order to scale up our skills in pair programming and in web development field. Every coder's dream.
 
 Having lots of help from Founders & Coders along with GazaSkyGeeks was a great push forward. But the most important was having each other mentoring one another, sharing our knowledge one another, collecting the harvest of others alongside ours.
